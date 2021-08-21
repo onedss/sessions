@@ -1,4 +1,4 @@
-module sessions
+module github.com/onedss/sessions
 
 go 1.14
 
